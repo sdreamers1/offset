@@ -1,6 +1,5 @@
-// Roblox Version - version-7a0c6d10fcb34a2c
-// Total flags: 15,013
-// Dumped by Ryzen at 2026-10-14 16:40:10
+// version-7a0c6d10fcb34a2c
+// 15,013 FFlags
 
 #pragma once
 
